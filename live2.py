@@ -40,7 +40,7 @@ class Config:
     IOU_THRESHOLD: float = 0.5
 
     # Video Source
-    IP_CAM_URL: str = "http://192.168.1.10:8080/video"
+    IP_CAM_URL: str = "http://192.168.1.8:8080/video"
     # IP_CAM_URL: str = 1
     FRAME_WIDTH: int = 860
     FRAME_HEIGHT: int = 640

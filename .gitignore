@@ -1,0 +1,22 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime logs and alert recordings
+logs/
+alerts/
+*.log
+*.avi
+
+# YOLO/Ultralytics generated training and test outputs
+runs/
+test_results/
+*.pt
+
+# Editor/runner temporary files
+tempCodeRunnerFile.py
+
+# Expo local state at repo root
+.expo/
